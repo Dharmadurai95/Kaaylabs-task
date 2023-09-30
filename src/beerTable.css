@@ -1,0 +1,14 @@
+.custom-table{
+    max-height: 87vh;
+    overflow: auto;
+
+}
+
+.fixedHeader {
+    position: sticky;
+    top: -1px;
+}
+.flexBox {
+    display: flex;
+    
+}
